@@ -1,4 +1,4 @@
-# CloudBees Jenkins Enterprise 
+# CloudBees Jenkins Enterprise (deprecated)
 ## Custom Managed Master Docker Image
 This repository provides an example for creating a custom Docker image to use as a [Managed Master](https://go.cloudbees.com/docs/cloudbees-documentation/admin-cje/getting-started/#provision-masters) *Docker image template* to be provisioned by CloudBees Jenkions Operations Center running on the CloudBees Jenkins Enterprise cluster. 
 
